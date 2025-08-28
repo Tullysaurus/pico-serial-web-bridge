@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from 'react';
-import '@/types/web-serial';
+import '@/types/web-serial.d.ts';
 import { Button } from '@/components/ui/button';
 import { Card } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
